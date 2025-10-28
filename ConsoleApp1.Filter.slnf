@@ -1,0 +1,8 @@
+﻿{
+  "solution": {
+    "path": "..\\..\\RiderProjects\\ConsoleApp1\\ConsoleApp1.sln",
+    "projects": [
+      "ConsoleApp1\\ConsoleApp1.csproj"
+    ]
+  }
+}
